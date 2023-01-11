@@ -61,7 +61,7 @@ h6 {
 
 
 h1 .logo {
-	font-size: 230%;
+	font-size: 150px;
 	width: 200px;
 	margin-left: -20px;
 }
@@ -71,7 +71,7 @@ h1 .logo {
 	display: block;
 	background-color: black;
 	padding: 18px;
-	border: 3px solid white;
+	/*border: 3px solid white;*/
 }
 
 .vertical-list li {
@@ -116,7 +116,7 @@ h1 .logo {
 #home nav {
 	margin: 0 auto;
 	width: 700px;
-	padding-top: 80px;
+	/*padding-top: 80px;*/
 }
 
 #home nav ul {
@@ -124,7 +124,8 @@ h1 .logo {
 }
 
 #home nav ul li {
-	width: 25%;
+	margin: 5px;
+	width: 30%;
 }
 
 #home nav a {
@@ -324,14 +325,14 @@ h1 .logo {
 
 #portfolio section {
 	height: 100%;
-	margin-bottom: 20px;
+	/*margin-bottom: 20px;*/
 }
 
 #portfolio .overlay {
 	position: relative;
 	padding-bottom: 0px;
 	min-height: 550px;
-  overflow: auto;
+  	overflow: auto;
 }
 
 #portfolio .description h4 {
